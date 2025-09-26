@@ -32,9 +32,15 @@ Computer science undergrad. I like security and neuroscience-flavored data analy
 ## Languages & Tools
 
 <!-- Logos row -->
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,js,nodejs,react,express,jest,cpp,cs,html,css,blender,notion)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kali,matlab,r,vscode,py,anaconda,sklearn,tensorflow,pytorch,js,npm,nestjs,react,nodejs,express,tailwind,cypress,jest,postgresql,mysql,mongodb,cypress,cpp,cs,html,css,blender,neovim,notion,discord,latex&perline=8" />
+  </a>
+</p>
 
-<!-- Shields row -->
+
+<!-- Shields row
+* For later use
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black"/>
   <img alt="macOS" src="https://img.shields.io/badge/macOS-999999?logo=Apple&style=for-the-badge&logoColor=white"/>
@@ -45,9 +51,10 @@ Computer science undergrad. I like security and neuroscience-flavored data analy
   <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white"/>
 </p>
 
+-->
 ---
 
-### Contact Me
+## Contact Me
 <!-- Social -->
 <div align="left">
   <a href="https://www.linkedin.com/in/dokyuhan/">
@@ -62,7 +69,7 @@ Computer science undergrad. I like security and neuroscience-flavored data analy
 <!-- Fun typing line -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=1CA3F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My%2C+GitHub+Stats" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=1CA3F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My%2C+GitHub+Stats" alt="Typing SVG" />
   </a>
 </p>
 
