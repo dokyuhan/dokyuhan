@@ -34,7 +34,7 @@ Computer science undergrad. I like security and neuroscience-flavored data analy
 <!-- Logos row -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kali,matlab,r,vscode,py,anaconda,sklearn,tensorflow,pytorch,js,npm,nestjs,react,nodejs,express,tailwind,cypress,jest,postgresql,mysql,mongodb,cypress,cpp,cs,html,css,blender,neovim,notion,discord,latex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kali,matlab,r,vscode,py,anaconda,sklearn,tensorflow,pytorch,js,npm,nestjs,react,nodejs,express,tailwind,cypress,jest,postgresql,mysql,mongodb,cypress,cpp,cs,html,css,blender,neovim,notion,discord,latex&perline=15" />
   </a>
 </p>
 
