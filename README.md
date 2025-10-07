@@ -20,7 +20,7 @@
   </a>
 </p>
 
-Computer science undergrad. I like security and neuroscience-flavored data analysis — two worlds that seem far apart but keep colliding in interesting ways.
+Computer science undergrad. I like security and neuroscience data analysis.
 
 ## Experience
 - **Research Intern — Boston Children’s Hospital**  
