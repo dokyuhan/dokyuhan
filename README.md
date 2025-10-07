@@ -4,21 +4,22 @@
   <img src="./assets/name_tag.gif" alt="Do Kyu Han — banner" width="100%" />
 </div>
 
-<!-- Quick badges -->
-<p align="left">
-  <!-- Profile views (Komarev, for-the-badge style) -->
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dokyuhan&label=VIEWS&style=for-the-badge&color=1155ba" />
-  <!-- Stars (your existing service) -->
-  <a href="https://github.com/dokyuhan?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub"
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fdokyuhan"/>
-  </a>
-  <!-- Followers -->
-  <a href="https://github.com/dokyuhan?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub"
-         src="https://custom-icon-badges.herokuapp.com/github/followers/dokyuhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
+  <!--
+    <p align="left">
+      <!-- Profile views (Komarev, for-the-badge style) -->
+      <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dokyuhan&label=VIEWS&style=for-the-badge&color=1155ba" />
+      <!-- Stars (your existing service) -->
+      <a href="https://github.com/dokyuhan?tab=repositories&sort=stargazers">
+        <img alt="Total stars" title="Total stars on GitHub"
+             src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fdokyuhan"/>
+      </a>
+      <!-- Followers -->
+      <a href="https://github.com/dokyuhan?tab=followers">
+        <img alt="Followers" title="Follow me on GitHub"
+             src="https://custom-icon-badges.herokuapp.com/github/followers/dokyuhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
+    </p>
+    -->
 
 Computer science undergrad. I like security and neuroscience data analysis.
 
