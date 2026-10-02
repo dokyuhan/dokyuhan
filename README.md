@@ -29,7 +29,7 @@
       I enjoy working at the intersection of programming, data analysis, and neuroscience, while also continuing to explore cybersecurity and how these fields may connect.</p>
     </td>
     <td align="center" valign="middle" width="220">
-      <img src="assets/cat1.png" alt="Cat" width="200">
+      <img src="assets/cat2.png" alt="Cat" width="200">
     </td>
   </tr>
 </table>
