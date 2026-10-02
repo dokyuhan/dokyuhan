@@ -18,21 +18,19 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td valign="middle" width="640">
-      <h3>Computer science graduate student</h3>
-      <p>Interested in <b>cybersecurity</b> and <b>neuroscience data analysis</b>.</p>
-      <p><b>Research</b><br>
-      Most of my experience has focused on signal processing and data analysis for brain–heart signals and neuroimaging data.</p>
-      <p><b>Interests</b><br>
-      I enjoy working at the intersection of programming, data analysis, and neuroscience, while also continuing to explore cybersecurity and how these fields may connect.</p>
-    </td>
-    <td align="center" valign="middle" width="220">
-      <img src="assets/cat2.png" alt="Cat" width="200">
-    </td>
-  </tr>
-</table>
+<img src="assets/cat2.png" alt="Cat" width="200" align="right">
+
+**Computer science graduate student**
+
+Interested in **cybersecurity** and **neuroscience data analysis**.
+
+**Research**<br>
+Most of my experience has focused on signal processing and data analysis for brain–heart signals and neuroimaging data.
+
+**Interests**<br>
+I enjoy working at the intersection of programming, data analysis, and neuroscience, while also continuing to explore cybersecurity and how these fields may connect.
+
+<br clear="right">
 
 ## Experience
 
