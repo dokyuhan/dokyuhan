@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Do Kyu Han" width="100%">
+<img src="assets/banner.gif" alt="Do Kyu Han" width="500">
 
 <h3>CS Graduate Student &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; Neuroscience Data Analysis</h3>
 
